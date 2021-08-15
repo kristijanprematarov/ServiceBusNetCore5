@@ -1,0 +1,12 @@
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\bin\Debug\net5.0\SampleShared.deps.json
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\bin\Debug\net5.0\SampleShared.dll
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\bin\Debug\net5.0\ref\SampleShared.dll
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\bin\Debug\net5.0\SampleShared.pdb
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\obj\Debug\net5.0\SampleShared.csproj.AssemblyReference.cache
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\obj\Debug\net5.0\SampleShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\obj\Debug\net5.0\SampleShared.AssemblyInfoInputs.cache
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\obj\Debug\net5.0\SampleShared.AssemblyInfo.cs
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\obj\Debug\net5.0\SampleShared.csproj.CoreCompileInputs.cache
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\obj\Debug\net5.0\SampleShared.dll
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\obj\Debug\net5.0\ref\SampleShared.dll
+C:\Users\kristijan.prematarov\source\repos KrisLearning\ServiceBusNetCore5\SampleShared\obj\Debug\net5.0\SampleShared.pdb

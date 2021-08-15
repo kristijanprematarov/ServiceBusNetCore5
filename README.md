@@ -1,2 +1,2 @@
 # ServiceBusNetCore5
-Service Bus MVC Sender, Console App .NET Core 5 Receiver 
+Service Bus MVC Sender, Console App .NET 5 Receiver 
